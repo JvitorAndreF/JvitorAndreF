@@ -10,13 +10,13 @@
   <img align="center" alt="J-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="J-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="J-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="J-Excel" height="40" width="100" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </div>
   
-  ##
- 
- <div> 
-  <a href="https://instagram.com/vitor_zef" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ ##
 
+<div> 
+  <a href="https://instagram.com/vitor_zef" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 <!--
 **JvitorAndreF/JvitorAndreF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
